@@ -16,17 +16,30 @@ Secondly, graphic mode functions require a graphics monitor (at least 640x480) a
 Thirdly, to start graphics programming then you need two files which are GRAPHICS.H and GRAPHICS.LIB. These files are provided as part of the TurboC compiler.
 
 ## Graphics Text
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Graphics Text](https://raw.githubusercontent.com/bdstar/Analog-Digital-Clock-Graphics-TurboC/main/image/1.jpg)
 
 ## Keyboard Event
+![Keyboard Event](https://raw.githubusercontent.com/bdstar/Analog-Digital-Clock-Graphics-TurboC/main/image/2.jpg)
 
 ## Interactive Animation
+![Interactive Animation](https://raw.githubusercontent.com/bdstar/Analog-Digital-Clock-Graphics-TurboC/main/image/3.jpg)
 
 ## Graphics Text
+![Graphics Text](https://raw.githubusercontent.com/bdstar/Analog-Digital-Clock-Graphics-TurboC/main/image/4.jpg)
 
 ## Analog-Digital clock
+![Analog-Digital clock](https://raw.githubusercontent.com/bdstar/Analog-Digital-Clock-Graphics-TurboC/main/image/5.jpg)
 
 ## Goodbye
+![Goodbye](https://raw.githubusercontent.com/bdstar/Analog-Digital-Clock-Graphics-TurboC/main/image/6.jpg)
 
 ## Conclusion
 This is a simple graphical application for the Analog-Digital clock program. So download the source code and run it to enjoy. Happy Coding…
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
